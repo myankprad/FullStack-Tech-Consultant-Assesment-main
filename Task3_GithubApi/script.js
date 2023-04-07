@@ -31,7 +31,7 @@ const months = [
 const bio = get("bio");
 const repos = get("repos");
 const followers = get("followers");
-const following = document.querySelector(".following");
+const following = get("following");
 const user_location = get("location");
 const page = get("page");
 const twitter = get("twitter");
@@ -94,7 +94,7 @@ function updateProfile(data) {
     user.innerText = `@${data.login}`;
     user.href = `${data.html_url}`;
     datesegments = data.created_at.split("T").shift().split("-");
-    date.innerHTML = `Joined ${datesegments[2]} ${
+    date.innerText = `Joined ${datesegments[2]} ${
       months[datesegments[1] - 1]
     } ${datesegments[0]}`;
     bio.innerText =
