@@ -1,35 +1,14 @@
-# FullStack Tech Consultant-Assesment
-
-<h2>Task 1 </h2>
-<h3><a href = "https://github.com/myankprad/FullStack-Tech-Consultant-Assesment-main/tree/master/Task1_Discord-Clone">Discord Clone</h3>
-
-![Output](./Task1_Discord-Clone/discordimg.PNG)
-
-
- <h1><a href = "https://gilded-pastelito-68611d.netlify.app/">Live Link</h3>
-<p>This web page is created with the help of pure HTML and Tailwind CSS</p>
-
-<br>
-
-<h2>Task 2 </h2>
-<h3><a href = "https://github.com/snehalgadge/Consultant-Assesment/tree/main/Task2_ISRO">ISRO</h3>
-<h3><a href =" ">Live Link : in process</h3>
-<p>This project is build with the help of HTML CSS and JavaScript . I used fetch API to get the API of ISRO</p>
-
-
-<br>
-
 # GitHub UserFinder
 
- A web application that allows users to search for other GitHub users and view their profiles. The application was built using JavaScript and the GitHub API, and is designed to be fast, responsive, and user-friendly.
+This repository contains a web application that allows users to search for other GitHub users and view their profiles. The application was built using JavaScript and the GitHub API, and is designed to be fast, responsive, and user-friendly.
 
 ## How it Works
 
 The application uses the GitHub API to search for users based on their username. When a user submits a search query, the application sends a GET request to the API, which returns a list of matching users along with their profile information. The application then renders the results using JavaScript and displays them on the page.
 
-##  [Live Link](https://serene-lebkuchen-e4f9b5.netlify.app/).
+## Live Link
 
-![Output](./Task3_GithubApi/git.png)
+You can view the live project by clicking [here](https://serene-lebkuchen-e4f9b5.netlify.app/).
 ## Screenshots
 
 Here are some screenshots of the application:
@@ -54,4 +33,3 @@ Through this project, I learned:
 ## Connect with me
 
 - [AMAN KUMAR - Linkedln](https://www.linkedin.com/in/aman-kumar-9594661a7/)
-
